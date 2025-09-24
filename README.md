@@ -1,5 +1,5 @@
-<h1 align="center">趙宥誠 (Yu-Cheng Chao)</h1>
-<h3 align="center">Email: 20021018ethan@gmail.com</h3>
+<h1 align="center" style="border-bottom: none; margin-bottom: 10px;">趙宥誠 (Yu-Cheng Chao)</h1>
+<h3 align="center" style="margin-top: 0;">Email: 20021018ethan@gmail.com</h3>
 <h2 align="left">LeetCode</h2>
 <div align="center">
 
