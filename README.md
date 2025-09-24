@@ -1,4 +1,8 @@
-<h3 align="center">Email: 20021018ethan@gmail.com, gbcpics.dev@gmail.com</h3>
+<h1 align="center">Yu-Cheng Chao</h1>
+
+---
+
+<h3 align="center">Email: 20021018ethan@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
