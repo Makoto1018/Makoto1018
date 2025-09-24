@@ -3,7 +3,7 @@
 <h2 align="left">LeetCode status</h2>
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mkt_1018?theme=light&font=Ibarra%20Real%20Nova)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mkt_1018&theme=dark)
 
 </div>
 <h2 align="left">Technical Skills</h2>
