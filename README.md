@@ -1,9 +1,10 @@
 <h1 align="center">趙宥誠 (Yu-Cheng Chao)</h1>
 <h3 align="center">Email: 20021018ethan@gmail.com</h3>
-<h2 align="left">LeetCode status</h2>
+<h2 align="left">LeetCode</h2>
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mkt_1018&theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mkt_1018?hide=ranking&width=500&height=200&theme=dark&font=Anek%20Malayalam)](https://leetcode.com/u/mkt_1018/)
+
 
 </div>
 <h2 align="left">Technical Skills</h2>
