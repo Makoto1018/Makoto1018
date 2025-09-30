@@ -57,5 +57,8 @@
 A website that allows users to search for and download screenshots from the anime Girls Band Cry.
 <img src="https://github.com/Makoto1018/Makoto1018/blob/main/gbcpics_demo.gif" alt="gbcpics demo gif"/>
 
+### 半自動截圖預處理器 [🔗Link to repo](https://github.com/Makoto1018/screenshot_helper)
+A tool designed to automate the data processing for the upper website.
+
 ### LeetCode & CPE Solutions [🔗Link to repo](https://github.com/Makoto1018/CPE-LeetCode-Solutions)
 My solutions and notes for coding problems from LeetCode and CPE.
